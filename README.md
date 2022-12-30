@@ -52,10 +52,8 @@ Profile README
 <h1 style="font-size: value; text-align: center;"> About Me: </h1>
 <div id="about me"align="center" markdown="1">
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on my [stock-bot](<https://stock-bot-metrics.sawyer.services>)
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about my lottery bot
 - 📫 How to reach me: SawyerBristol@gmail.com
 - ⚡ Fun fact: I prefer Linux over Windows :)
