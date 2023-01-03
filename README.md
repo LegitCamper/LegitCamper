@@ -14,6 +14,11 @@ Profile README
     </a>
 </div>
 
+<div id="wakatime" align="center">
+    <a href="https://wakatime.com/@LegitCamper">
+        <img src="https://wakatime.com/badge/user/667e8788-dc0e-4308-a0a6-3580fee39a98.svg">
+</div>
+
 <div id="profile" align="center">
     <img src="https://komarev.com/ghpvc/?username=LegitCamper&style=flat-square&color=blue" alt=""/>
 </div>
@@ -57,6 +62,7 @@ Profile README
 - 💬 Ask me about my lottery bot
 - 📫 How to reach me: SawyerBristol@gmail.com
 - ⚡ Fun fact: I prefer Linux over Windows :)
+- 🖥️ [Here are my wakatime](<https://wakatime.com/@LegitCamper>) stats for all my projects 
 
 </div>
 
