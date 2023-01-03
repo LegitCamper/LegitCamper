@@ -17,6 +17,7 @@ Profile README
 <div id="wakatime" align="center">
     <a href="https://wakatime.com/@LegitCamper">
         <img src="https://wakatime.com/badge/user/667e8788-dc0e-4308-a0a6-3580fee39a98.svg">
+    </a>
 </div>
 
 <div id="profile" align="center">
