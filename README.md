@@ -71,7 +71,7 @@ Profile README
 <h1 style="font-size: value; text-align: center;">  Stats: </h1>
 <div id="gh stats"align="center" markdown="1">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LegitCamper&theme=dracula&hide_border=false&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LegitCamper&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegitCamper&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
