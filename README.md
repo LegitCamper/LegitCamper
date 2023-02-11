@@ -54,11 +54,13 @@ Profile README
 </div>
 
 
+<!-- # Commenting out
+- 🔭 I’m currently working on nothing
+-->
 
 <h1 style="font-size: value; text-align: center;"> About Me: </h1>
 <div id="about me"align="center" markdown="1">
 
-- 🔭 I’m currently working on my [stock-bot](<https://stock-bot-metrics.sawyer.services>)
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about my lottery bot
 - 📫 How to reach me: SawyerBristol@gmail.com
@@ -67,6 +69,14 @@ Profile README
 
 </div>
 
+
+<h1 style="font-size: value; text-align: center;"> Projects: </h1>
+<div id="Projects"align="center" markdown="1">
+
+- [stock-bot](<https://stock-bot-metrics.sawyer.services>)
+- [triangular-arbitrage](<https://github.com/LegitCamper/Triangular-Arbitrage>)
+
+</div>
 
 
 <h1 style="font-size: value; text-align: center;">  Stats: </h1>
