@@ -5,7 +5,7 @@ Profile README
 
 
 <div id="code gif" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47aqdcwx4sqc76z5t6412ray10d2eqviu7wwukd5nc&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 <div id="badges" align="center">
