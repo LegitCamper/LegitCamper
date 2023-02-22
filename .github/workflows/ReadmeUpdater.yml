@@ -30,4 +30,4 @@ jobs:
                 INPUT_COMMIT_EMAIL: "SawyerBristol@gmail.com"
                 INPUT_COMMIT_USERNAME: "LegitCamper"
 
-                IGNORED_REPOS: "-Samuel-Beuran---Automated-betting-bot, TinderBotz, YTShort-Dump, WallStreetBots, Myst, GitHub_Folder, Intro_Python, AdSense-Income"
+                IGNORED_REPOS: "-Samuel-Beuran---Automated-betting-bot, TinderBotz, YTShort-Dump, WallStreetBots, Myst, GitHub_Folder, BevBot69/Intro_Python, BevBot69 Intro_Python, Intro_Python, CryptoidCoder AdSense-Income, CryptoidCoder/AdSense-Income"
