@@ -89,3 +89,9 @@ Profile README
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LegitCamper&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+# My Wakatime stats updated/refresheded by Github actions!
+
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
+
