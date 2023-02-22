@@ -73,8 +73,8 @@ Profile README
 <h1 style="font-size: value; text-align: center;"> Projects: </h1>
 <div id="Projects"align="center" markdown="1">
 
-- [stock-bot](<https://stock-bot-metrics.sawyer.services>)
-- [triangular-arbitrage](<https://github.com/LegitCamper/Triangular-Arbitrage>)
+- [stock-bot](<https://stock-bot-metrics.sawyer.services>) [![wakatime](https://wakatime.com/badge/github/LegitCamper/Stock-Bot.svg)](https://wakatime.com/badge/github/LegitCamper/Stock-Bot)
+- [triangular-arbitrage](<https://github.com/LegitCamper/Triangular-Arbitrage>) [![wakatime](https://wakatime.com/badge/github/LegitCamper/Triangular-Arbitrage.svg)](https://wakatime.com/badge/github/LegitCamper/Triangular-Arbitrage)
 
 </div>
 
