@@ -91,7 +91,7 @@ Profile README
 
 </div>
 
-# My Wakatime stats updated/refresheded by Github actions!
+---
 
 <!--START_SECTION:stats-->
 <!--END_SECTION:stats-->
