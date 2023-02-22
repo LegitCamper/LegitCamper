@@ -26,5 +26,8 @@ jobs:
                 SHOW_TIMEZONE: "True"
                 SHOW_EDITORS: "True"
                 SHOW_LANGUAGE_PER_REPO: "True"
+                
+                INPUT_COMMIT_EMAIL: "SawyerBristol@gmail.com"
+                INPUT_COMMIT_USERNAME: "LegitCamper"
 
                 IGNORED_REPOS: "-Samuel-Beuran---Automated-betting-bot, TinderBotz, YTShort-Dump, WallStreetBots, Myst, GitHub_Folder"
