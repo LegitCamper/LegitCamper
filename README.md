@@ -94,5 +94,80 @@ Profile README
 ---
 
 <!--START_SECTION:stats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2036%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 168.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 187 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                31 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌆 Daytime                58 commits          ████████████░░░░░░░░░░░░░   46.40 % 
+🌃 Evening                35 commits          ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Tuesday                  40 commits          ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Friday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Saturday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Denver
+
+💬 Programming Languages: 
+Rust                     3 hrs 6 mins        ██████████████░░░░░░░░░░░   56.08 % 
+Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+C                        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Makefile                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+
+🔥 Editors: 
+Neovim                   5 hrs 33 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    5 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+AutoHotkey               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/LegitCamper/LegitCamper/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/02/2023 07:18:52 UTC
 <!--END_SECTION:stats-->
 
