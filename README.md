@@ -29,7 +29,7 @@ Profile README
 <h1 style="font-size: value; text-align: center;"> Languages and Tools: </h1>
 <div id="tools" align="center">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' width="40" height="40">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg width="40" height="40">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg' width="40" height="40">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg' width="40" height="40">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg' width="40" height="40">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width="40" height="40">
